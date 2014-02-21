@@ -1,0 +1,61 @@
+.btns{
+ 	max-width: 80%;
+ 	font-size: 1.3em;
+ 	margin: 10px auto;
+	background-color: #202020;
+	border:2px solid black;
+	border-radius:4px;
+	color:white;
+	text-align:center;
+	padding: 10px;
+	display: block;
+	text-decoration: none;
+	vertical-align: middle;
+}
+.btns:hover{
+	background-color: white;
+	color:black;
+	cursor:pointer;
+ }
+ #para1{
+    width: 50%;
+    margin: 0px auto;
+	background-color: gray;
+	border:2px solid black;
+	border-radius:4px;
+	color:white;
+	text-align:center;
+ }
+ #para1:hover{
+	background-color: white;
+	color:black;
+	cursor:pointer;
+ }
+ #logox {
+ 	background: #202020;
+ 	text-align: center;
+ 	padding-top: 10px;
+ 	padding-bottom: 10px;
+ }
+ #logox img{
+ 	width: 60%;
+ }
+ .footerx {
+ 	background: #202020;
+ 	text-align: center;
+ 	padding-top: 10px;
+ 	padding-left: 10px;
+ 	padding-right: 10px;
+ 	padding-bottom: 10px;
+ }
+ .bodyx {
+ 	background-image: url('../img/dark.png');
+ 	text-align: center;
+ 	padding-top: 10px;
+ 	padding-left: 10px;
+ 	padding-right: 10px;
+ 	padding-bottom: 10px;
+ }
+ .mark {
+ 	border: 1px solid red;
+ }
